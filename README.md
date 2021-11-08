@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirat&theme=vue-dark&show_icons=true)](https://github.com/mihirat/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirat&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/mihirat/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirat&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mihirat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirat&theme=vue-dark&show_icons=true&layout=compact&count_private=true&hide=css,html)](https://github.com/mihirat/github-readme-stats)
 
 <!--
 **mihirat/mihirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
